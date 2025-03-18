@@ -1,0 +1,26 @@
+{
+  "name": "Kulpimeow",
+  "description": "orange cat elegant.",
+  "external_url": "https://apricot-eldest-frog-982.mypinata.cloud/ipfs/bafybeifsbuslfdxxqlxrkig7welkjc4chb6twm3x7bvimzn34bj5dvm5uy",
+  "image": "ipfs://bafkreia262dujn7zkw7vi7j2cfu2v2kyky4rdm2jts6mb4gnhrvsi7reuq",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Long Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Serious"
+    }
+  ]
+}
+
+  
