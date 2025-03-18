@@ -32,3 +32,16 @@ forge build
 forge test  
 
 Now you are ready to deploy and interact with Kulpimeow NFT!
+
+forge script script/DeployKulpimeowNFT.s.sol \
+  --rpc-url https://testnet-rpc.monad.xyz \
+  --broadcast --verify
+
+## Verify Deployment
+forge verify-contract \
+  <contract_address> \
+  src/KulpimeowNFT.sol:KulpimeowNFT \
+  --chain 10143 \
+  --verifier sourcify \
+  --verifier-url https://sourcify-api-monad.blockvision.org
+
